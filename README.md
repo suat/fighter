@@ -1,4 +1,0 @@
-fighter
-=======
-
-Fighter Wordpress Theme
