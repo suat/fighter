@@ -1,4 +1,5 @@
-Fighter is a simple black and white free wordpress theme. It supports menus, widgets, custom header and custom background features. First header photo taken by "Ian Sane" (http://flic.kr/ps/tBrEQ). Second header photo taken by "glasseyes view" (http://flic.kr/ps/2921zE) Fihter theme created by <a href="http://www.mydizayn.org">My Dizayn</a>
+Fighter is a simple black and white free wordpress theme. It supports menus, widgets, custom header and custom background features. First header photo taken by "Ian Sane" (http://flic.kr/ps/tBrEQ). Second header photo taken by "glasseyes view" (http://flic.kr/ps/2921zE)
+Fihter theme created by My Dizayn ( http://www.mydizayn.org )
 
 = Fighter =
 
